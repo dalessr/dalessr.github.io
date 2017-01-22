@@ -1,5 +1,12 @@
+<html>
 
-<h1 align="middle">~~Heading~~<h1>
-<br/>
-<br/>
-<p>Hi, my name is dalessr. Welcome to my GitHub page!</p>
+<head>
+<title>My first webpage</title>
+</head>
+
+<body bgcolor="yellow">
+<h1>My First Heading</h1>
+<p>This is my first paragraph.</p>
+</body>
+
+</html>
