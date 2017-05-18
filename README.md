@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<title>My first webpage</title>
 </head>
 
 <body bgcolor="yellow">
