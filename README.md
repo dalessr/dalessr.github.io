@@ -1,9 +1,10 @@
-<html>
-<body>
-<h1>WELCOME</h1>
-<br/><br/>
-<p><big><i>This is dalessr's GitHub Page</i></big></p>
-<br/>
-<p><big>Please click <a href="https://dalessr.github.io/mywebsite/">here</a> for more infomation</big></p>
-</body>
-</html>
+# Welcome
+This project is to generate _Shengran's personal website_. Please [click here](https://dalessr.github.io/) to go to the website.
+
+## Introduction
+My name is Sun Shengran, current Year 2 undergraduate from _National University of Singapore (NUS)_, majoring in Information Security, minor in Statistics. My major interest areas are **Software Engineering** and **Information Security**.
+
+## Contact
+- Email: dale.sunshengran@gmail.com
+- GitHub: [@dalessr](https://www.github.com/dalessr/)
+- Website: [dalessr.github.io](https://dalessr.github.io/)
